@@ -1,0 +1,148 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "oQaUtadMpky-YasBFsvJz2Nib7s",
+  "nextPageToken": "CAQQAA",
+  "regionCode": "IN",
+  "pageInfo": {
+    "totalResults": 36962,
+    "resultsPerPage": 4
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZONPOJOnqe1ImmNIpusduno9LA0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZzaPdXTrSb8"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-10T16:00:12Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "C++ Tutorial for Beginners - Learn C++ in 1 Hour",
+        "description": "Learn C++ basics in 1 hour! Get 6 months of CLion FREE with the coupon in the description! ❤️ Join this channel to get ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZzaPdXTrSb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZzaPdXTrSb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZzaPdXTrSb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-10T16:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4ykSCH9lZikx046wcmlKx4A9XKo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i2OOPAvCDK0"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-01T10:56:47Z",
+        "channelId": "UCV7cZwHMX_0vk8DSYrS7GCg",
+        "title": "C++ Object Oriented Programming | OOPs Introduction",
+        "description": "C++ full course https://youtu.be/HME2SrWWSYk c++ programs using classes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i2OOPAvCDK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i2OOPAvCDK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i2OOPAvCDK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Learn Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-01T10:56:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vj2mxTBVP4QZxZ5boux1f3eggbg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u6Cv5Y0FAsk"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-17T10:42:57Z",
+        "channelId": "UC0RhatS1pyxInC00YKjjBqQ",
+        "title": "OOPS concepts explained in 50 seconds |",
+        "description": "Oops Explained Simply Object-Oriented Programming (OOP) is a way of designing and organizing code using objects that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u6Cv5Y0FAsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u6Cv5Y0FAsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u6Cv5Y0FAsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GeeksforGeeks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-17T10:42:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u729MdbtZpeipd2DxJXPedE7IGU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HFqQo4KhRvE"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-04T17:23:40Z",
+        "channelId": "UC0fsRDyOi52N3GeInLIz6lA",
+        "title": "Introduction to C++: Part 1 - Setting Up and Your First Program",
+        "description": "This series reviews the fundamentals of the C++ language. In this video, you will learn about the necessary tools you need in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HFqQo4KhRvE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HFqQo4KhRvE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HFqQo4KhRvE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dr. Joanne Skiles",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-04T17:23:40Z"
+      }
+    }
+  ]
+}
